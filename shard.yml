@@ -1,0 +1,9 @@
+name: RSS_Parser
+version: 0.1.0
+
+authors:
+  - Scott McClung <scott@nerdmagik.com>
+
+crystal: '>= 1.11.2'
+
+license: MIT
